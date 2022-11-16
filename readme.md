@@ -50,7 +50,7 @@ add in the amazon world map by executing the following comments:
     $ catkin_make
     
 
-## Execution for Single Robot
+## Execution for Single Robot (currently not working)
 The program can be executed using the following comments in three terminal:
 
 Terminal 1
